@@ -5,7 +5,7 @@ Web Developer
 * 🌍  I'm based in Bogotá
 * ✉️  You can contact me at [fernando24j@gmail.com](mailto:fernando24j@gmail.com)
 * 🚀  I'm currently working on [LabControl](http://https://labcontrol.co/)
-* 🧠  I'm learning NestJs
+* 🧠  I'm learning Fastify
 
 ### Skills
 
